@@ -3,7 +3,7 @@
  
  User Stories The following required functionality is completed:
 
-[] get another joke button automatically shows next random dad jokes.
+[✓] Gt another joke button automatically shows next random dad jokes.
 
 
 A walkthrough of the project is found below:
